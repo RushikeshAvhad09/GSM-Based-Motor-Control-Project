@@ -2,7 +2,7 @@
 // Programming Language: C++ (Arduino C/C++)
 // Development Environment: Arduino IDE
 // Libraries Used: SoftwareSerial, EEPROM, LiquidCrystal_I2C
-// Hardware: Arduino Nano, SIM800L GSM Module, Relay Module, 16x2 LCD
+// Hardware: Arduino Nano(ATmega328), SIM800L GSM Module, Relay Module, 16x2 LCD
 
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
